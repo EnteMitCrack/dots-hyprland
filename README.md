@@ -36,6 +36,9 @@ _Click the images for video showcases with animations! (except illogical\_impuls
    <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
     <img src="./assets/illogicalimpulse.png" alt="Sidebar, volume indicator and some GTK apps">
    </a>
+   <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
+    <img src="./assets/illogicalimpulse_supernova.png" alt="Sidebar, volume indicator and some GTK apps">
+   </a>
 
 
 > [!WARNING]
